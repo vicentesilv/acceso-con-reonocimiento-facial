@@ -136,6 +136,3 @@ lib/
 - Reinicia la aplicación
 - Si persiste, desinstala y reinstala la app
 
-## Contacto
-
-Si tienes preguntas o sugerencias, no dudes en contactar al desarrollador.
